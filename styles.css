@@ -6,6 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     flex-direction: column;
+    overflow: hidden;
 }
 
 h1 {
@@ -18,4 +19,18 @@ h3 {
 
 h4 {
     color: #7b9f88;
+}
+
+a {
+    text-decoration: none;
+    color: #1282A2;
+}
+
+a:hover {
+    color: #33A3C3;
+}
+
+#table {
+    display: flex;
+    justify-content: space-between;
 }
