@@ -1,0 +1,17 @@
+body {
+    background-color: #202623;
+    font-family: Helvetica,Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: #7b9f88;
+}
